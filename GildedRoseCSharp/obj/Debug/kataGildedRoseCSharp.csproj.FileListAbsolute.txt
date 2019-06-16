@@ -1,0 +1,7 @@
+C:\Users\Carlos Miranda Rocha\Source\Repos\GildedRoseRefactoringKata_solution\Strategy\csharp\GildedRoseCSharp\bin\Debug\GildedRoseCSharp.exe.config
+C:\Users\Carlos Miranda Rocha\Source\Repos\GildedRoseRefactoringKata_solution\Strategy\csharp\GildedRoseCSharp\bin\Debug\GildedRoseCSharp.exe
+C:\Users\Carlos Miranda Rocha\Source\Repos\GildedRoseRefactoringKata_solution\Strategy\csharp\GildedRoseCSharp\bin\Debug\GildedRoseCSharp.pdb
+C:\Users\Carlos Miranda Rocha\Source\Repos\GildedRoseRefactoringKata_solution\Strategy\csharp\GildedRoseCSharp\obj\Debug\kataGildedRoseCSharp.csprojAssemblyReference.cache
+C:\Users\Carlos Miranda Rocha\Source\Repos\GildedRoseRefactoringKata_solution\Strategy\csharp\GildedRoseCSharp\obj\Debug\kataGildedRoseCSharp.csproj.CoreCompileInputs.cache
+C:\Users\Carlos Miranda Rocha\Source\Repos\GildedRoseRefactoringKata_solution\Strategy\csharp\GildedRoseCSharp\obj\Debug\GildedRoseCSharp.exe
+C:\Users\Carlos Miranda Rocha\Source\Repos\GildedRoseRefactoringKata_solution\Strategy\csharp\GildedRoseCSharp\obj\Debug\GildedRoseCSharp.pdb
